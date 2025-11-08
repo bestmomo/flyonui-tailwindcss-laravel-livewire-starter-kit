@@ -197,7 +197,7 @@
                 </div>
                 <div>
                   <label class="label-text" for="jsPickr">DOB</label>
-                  <input id="jsPickr" type="date" class="input" placeholder="YYYY-MM-DD" id="jsPickr" required />
+                  <input id="jsPickr" type="date" class="input" placeholder="YYYY-MM-DD" required />
                 </div>
               </div>
               <div class="grid grid-cols-1 gap-6 md:grid-cols-2">
